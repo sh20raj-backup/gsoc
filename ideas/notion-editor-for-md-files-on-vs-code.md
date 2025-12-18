@@ -1,0 +1,1 @@
+create a notion like editor for md files on vs code - extension - so that we can edit md files on vs code and it will be converted to notion ui ux - for journaling, notes, etc
